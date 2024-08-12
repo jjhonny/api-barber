@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/jjhonny/backend-baber.git",
   "author": "jjhonny <ojhonny1@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
 }
