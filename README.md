@@ -35,7 +35,7 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/jjhonny/api-barber.git
 ```
 
 <h3>Config .env variables</h2>
@@ -53,7 +53,8 @@ How to start your project
 
 ```bash
 cd project-name
-npm some-command-to-run
+yarn
+yarn dev
 ```
 
 <h2 id="routes">📍 API Endpoints</h2>
